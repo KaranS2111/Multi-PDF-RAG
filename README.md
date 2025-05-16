@@ -54,6 +54,9 @@ python gradio_rag.py
 
 Upload PDFs, enter questions, and receive AI-generated answers with source document excerpts.
 
+## Use Case
+![pic.png]
+
 ## Customization
 
 - Change embedding models by swapping out `GoogleGenerativeAIEmbeddings` with alternatives.
@@ -68,7 +71,7 @@ Upload PDFs, enter questions, and receive AI-generated answers with source docum
 
 ## License
 
-MIT License © Your Name
+MIT License © Karan Sardar
 
 ---
 
