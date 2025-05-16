@@ -55,7 +55,8 @@ python gradio_rag.py
 Upload PDFs, enter questions, and receive AI-generated answers with source document excerpts.
 
 ## Use Case
-![pic.png]
+![pic](https://github.com/user-attachments/assets/a90b35a5-84ec-4cc3-be3e-7af6d4a97939)
+
 
 ## Customization
 
